@@ -1,0 +1,19 @@
+ul{
+  margin: auto;
+}
+li a {
+    color: darkblue;
+}
+
+body {
+    background: lightblue;
+}
+h1{
+  margin: auto;
+}
+form{
+  margin: auto;
+  border: 1px solid black;
+  padding: 10px;
+  margin-right: 1000px;
+}
